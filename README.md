@@ -7,4 +7,6 @@ Designed the initial design with Use Cases and UML Diagrams.
 
 Association, Aggregation, Composition, Abstraction, and Dependency are used to have effective class relationships.
 
-This project is created in Eclipse; so downloading and importing project folder into Eclipse should be able to run the game.  
+This project is created in Eclipse; so downloading and importing project folder into Eclipse should be able to run the game. 
+
+Jar file is also in the directory. 
